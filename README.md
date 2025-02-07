@@ -30,26 +30,23 @@ A tool that converts currency values based on exchange rates. It supports multip
 A system that manages student records, including adding, updating, and displaying student details in a structured manner.  
 
 ## 🚀 How to Use
-1. Clone the repository:
+### 1. Clone the repository:
+   ```git clone https://github.com/your-username/your-repo-name.git```
    
-   git clone https://github.com/your-username/your-repo-name.git
-   
-2.Navigate to the respective task folder:
+### 2.Navigate to the respective task folder:
 
-   cd Task01_NumberGuessingGame
+   ```cd Task01```
 
-3.Open the project in your preferred Java IDE:
-
+### 3.Open the project in your preferred Java IDE:
 - Eclipse
 - IntelliJ IDEA
 - VS Code
 
-4.Compile and run the Java program:
+### 4.Compile and run the Java program:
 If using a terminal:
 
 - javac Main.java
 - java Main
-- 
 If using an IDE, click Run.
 
 
