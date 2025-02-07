@@ -31,9 +31,9 @@ A system that manages student records, including adding, updating, and displayin
 
 ## 🚀 How to Use
 1. Clone the repository:
-   ```sh
+   
    git clone https://github.com/your-username/your-repo-name.git
-```
+   
 2.Navigate to the respective task folder
 
 cd Task01_NumberGuessingGame
