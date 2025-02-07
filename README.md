@@ -15,7 +15,14 @@ The internship duration is **one month**, focusing on hands-on coding experience
 
 ## 📝 Internship Tasks
 ### 🔹 Task 1: Number Guessing Game 🎲  
-A simple game where the user tries to guess a randomly generated number within a given range. The program provides hints (higher/lower) until the correct number is guessed.  
+A simple game where the user tries to guess a randomly generated number within a given range. The program provides hints (higher/lower) until the correct number is guessed. 
+1. Generates a random number within a specified range (e.g., 1 to 100).  
+2. Prompts the user to enter their guess.  
+3. Provides feedback on whether the guess is **too high**, **too low**, or **correct**.  
+4. Repeats until the user correctly guesses the number.  
+5. **Limited Attempts:** The game restricts the number of guesses allowed.  
+6. **Multiple Rounds:** Users can choose to play multiple rounds.  
+7. **Scoring System:** Tracks the number of attempts or rounds won. 
 
 ### 🔹 Task 2: Student Grade System 📚  
 A Java program that calculates and displays student grades based on their scores. It uses grading criteria to determine the final grade.  
