@@ -2,7 +2,6 @@
 
 Welcome to my **CodSoft Java Programming Internship** repository! 🚀 This repository contains the Java projects I completed during my **one-month internship**, focusing on **hands-on coding experience** and **real-world applications**.
 
----
 ## 📂 Repository Structure
 📁 **Task01** - Number Guessing Game  
 📁 **Task02** - Student Grade System  
@@ -12,13 +11,11 @@ Welcome to my **CodSoft Java Programming Internship** repository! 🚀 This repo
 📁 **docs/** - Documentation and additional notes  
 📄 **README.md** - You are here! 👀  
 
----
 ## 🛠 Technologies Used
 🔹 **Java** - Core Java concepts & Object-Oriented Programming (OOP)  
 🔹 **IDE** - Eclipse, IntelliJ IDEA, or VS Code  
 🔹 **Git & GitHub** - Version control & collaboration  
 
----
 ## 📝 Internship Tasks
 
 ### 🎲 Task 1: Number Guessing Game  
@@ -72,7 +69,6 @@ A simple **student records management system** with CRUD operations.
 ✔ Reads/Writes student data to a file or database  
 ✔ Implements **input validation** for accurate data entry  
 
----
 ## 🚀 Getting Started
 ### 1️⃣ Clone the repository:
 ```bash
@@ -98,7 +94,6 @@ A simple **student records management system** with CRUD operations.
 #### Using an IDE:
 Just hit **Run**! 🏃‍♂️💨
 
----
 ## 📬 Contact
 For any queries, suggestions, or collaborations, feel free to connect via GitHub! 🤝
 
