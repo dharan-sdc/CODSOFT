@@ -5,4 +5,4 @@ This repository contains the tasks and projects completed as part of my **CodSof
 ## 🔥 Internship Details
 - **Internship Provider:** CodSoft
 - **Duration:** A Month
-- **Role:** [Java Programming]
+- **Role:** Java Programming
