@@ -36,19 +36,20 @@ A system that manages student records, including adding, updating, and displayin
    
 2.Navigate to the respective task folder
 
-cd Task01_NumberGuessingGame
+   cd Task01_NumberGuessingGame
 
 3.Open the project in your preferred Java IDE
 
-Eclipse
-IntelliJ IDEA
-VS Code
+- Eclipse
+- IntelliJ IDEA
+- VS Code
 
 4.Compile and run the Java program
 If using a terminal:
 
-javac Main.java
-java Main
+- javac Main.java
+- java Main
+- 
 If using an IDE, click Run.
 
 
