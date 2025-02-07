@@ -1,4 +1,4 @@
-# 🎯 CodSoft Java Internship
+# 🎯 CodSoft Java Internship FEB 2025
 
 Welcome to my **CodSoft Java Programming Internship** repository! 🚀 This repository contains the Java projects I completed during my **one-month internship**, focusing on **hands-on coding experience** and **real-world applications**.
 
